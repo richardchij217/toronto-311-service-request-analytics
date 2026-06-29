@@ -1,3 +1,25 @@
+## Repository Structure
+
+```text
+Toronto-311-Service-Request-Analytics/
+│
+├── README.md
+├── dashboard_images/
+│   ├── dashboard1-overview.png
+│   ├── dashboard2-division-performance.png
+│   └── dashboard3-geographic-distribution.png
+│
+├── reports/
+│   └── Business_Intelligence_Report.pdf
+│
+├── tableau/
+│   └── Toronto_311_Service_Request_Analytics.twbx
+│
+├── data/
+│   └── dataset_link.txt
+│
+└── LICENSE (optional)
+```
 # Toronto 311 Service Request Analytics
 
 Interactive Tableau dashboard analyzing **237,681 Toronto 311 service requests** (January–May 2026) to identify geographic patterns, operational performance, service demand, and completion trends.
