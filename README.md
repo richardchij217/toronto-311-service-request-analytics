@@ -25,10 +25,16 @@ This project uses Tableau to analyze Toronto's 311 service request data and tran
 
 ## Dataset
 
-- **Source:** Toronto 311 Service Request Data
-- **Period:** January–May 2026
-- **Records:** 237,681 service requests
-- **Geographic Level:** Toronto Wards
+# Dataset
+
+The original Toronto 311 Service Request dataset exceeds GitHub's file size limit.
+
+This repository includes a representative sample for demonstration purposes.
+
+**Original Dataset Source:**
+https://open.toronto.ca/
+
+The full dataset can be downloaded from the City of Toronto Open Data Portal.
 
 ---
 
