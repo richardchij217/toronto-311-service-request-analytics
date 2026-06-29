@@ -44,19 +44,19 @@ This project uses Tableau to analyze Toronto's 311 service request data and tran
 
 ## Dashboard Preview
 
-## Dashboard 1 – Executive Service Request Overview
+### Dashboard 1 – Executive Service Request Overview
 
 ![Dashboard 1](Dashboard1.png)
 
 ---
 
-## Dashboard 2 – Operational Performance by Division
+### Dashboard 2 – Operational Performance by Division
 
 ![Dashboard 2](Dashboard2.png)
 
 ---
 
-## Dashboard 3 – Geographic Service Request Analysis
+### Dashboard 3 – Geographic Service Request Analysis
 
 ![Dashboard 3](Dashboard3.png)
 
