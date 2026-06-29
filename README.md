@@ -1,127 +1,95 @@
 # Toronto 311 Service Request Analytics
 
-## Interactive Tableau Dashboard for Municipal Service Request Analysis
-
-### Overview
-
-This project analyzes Toronto's 311 Service Request dataset (January–May 2026) using Tableau to uncover operational trends, geographic demand patterns, and municipal service performance.
-
-The dashboard provides an interactive business intelligence solution that enables stakeholders to:
-
-- Monitor service request volume
-- Identify high-demand wards
-- Track request completion status
-- Analyze monthly service trends
-- Explore the most requested municipal services
+Interactive Tableau dashboard analyzing **237,681 Toronto 311 service requests** (January–May 2026) to identify geographic patterns, operational performance, service demand, and completion trends.
 
 ---
 
-## Business Problem
+## Project Overview
 
-Municipal governments receive thousands of service requests every month. Understanding where requests originate, which services are most frequently requested, and how efficiently requests are resolved is essential for effective resource allocation and operational planning.
+Municipal governments receive thousands of service requests every day. Understanding where requests originate, which services are most frequently requested, and how efficiently they are completed helps city managers allocate resources more effectively.
 
-This dashboard transforms raw service request data into actionable insights for decision-makers.
+This project uses Tableau to analyze Toronto's 311 service request data and transform raw records into interactive dashboards for operational decision-making.
 
 ---
 
-## Project Objectives
+## Business Objectives
 
-- Analyze service request distribution across Toronto wards
-- Identify the most requested municipal services
-- Monitor operational performance using request status
-- Examine monthly service request trends
-- Develop an interactive geographic dashboard for exploration
+- Identify high-demand wards across Toronto.
+- Analyze the most frequently requested services.
+- Evaluate request completion status.
+- Monitor monthly service request trends.
+- Visualize geographic demand using ward-level mapping.
+- Support evidence-based municipal resource allocation.
 
 ---
 
 ## Dataset
 
-**Source:** Toronto Open Data
-
-**Records:** 237,681+
-
-**Time Period:** January – May 2026
-
-**Spatial Data:** Toronto Ward Boundaries (GeoJSON)
+- **Source:** Toronto 311 Service Request Data
+- **Period:** January–May 2026
+- **Records:** 237,681 service requests
+- **Geographic Level:** Toronto Wards
 
 ---
 
 ## Tools & Technologies
 
-- Tableau
-- Spatial Joins
-- GeoJSON
-- Calculated Fields
-- Interactive Dashboards
+- Tableau Desktop
+- Spatial Analysis (GeoJSON)
 - Data Visualization
 - Business Intelligence
+- Dashboard Design
 
 ---
 
-## Dashboards
+## Dashboard Preview
 
-### Dashboard 1 — Operational Performance Overview
+### Dashboard 1 – Operational Performance
 
-Provides an executive summary of:
-
-- Top 10 Wards
-- Top 5 Service Request Types
-- Request Status Distribution
-- Monthly Service Request Trend
+![Dashboard 1](Dashboard1.png)
 
 ---
 
-### Dashboard 2 — Division Performance Analysis
+### Dashboard 2 – Division Performance
 
-Compares municipal divisions by:
-
-- Request Volume
-- Monthly Trend
-- Operational Performance
+![Dashboard 2](Dashboard2.png)
 
 ---
 
-### Dashboard 3 — Geographic Distribution
+### Dashboard 3 – Geographic Distribution
 
-Interactive choropleth map showing:
-
-- Ward-level request density
-- Geographic hotspots
-- Completion Rate (Tooltip)
-- Interactive ward exploration
+![Dashboard 3](Dashboard3.png)
 
 ---
 
 ## Key Insights
 
-- Downtown Toronto generated the highest volume of service requests.
-- Road maintenance and sidewalk-related issues were among the most frequently requested services.
-- The majority of requests were successfully completed.
-- Service request activity varied across months, indicating seasonal demand patterns.
-- Geographic visualization highlights areas requiring greater operational attention.
+- Downtown Toronto recorded the highest concentration of service requests.
+- Road maintenance and sidewalk-related requests represented the largest service categories.
+- Most service requests were completed successfully, indicating strong operational performance.
+- Service request volume declined from January through March before increasing again in April and May.
+- Geographic analysis highlighted clear differences in service demand across Toronto wards.
 
 ---
 
 ## Business Recommendations
 
-- Allocate additional resources to consistently high-demand wards.
-- Monitor completion rates to improve operational efficiency.
-- Use historical trends for workforce planning.
-- Prioritize frequently requested service categories.
-- Continue monitoring ward-level demand using interactive dashboards.
+- Increase staffing in consistently high-demand wards.
+- Prioritize frequently requested service categories for proactive maintenance.
+- Continue monitoring completion rates to improve operational efficiency.
+- Use ward-level trends to guide seasonal resource planning.
 
 ---
 
 ## Skills Demonstrated
 
-- Tableau
-- Dashboard Design
-- Data Visualization
-- Business Intelligence
-- Spatial Analysis
-- Data Storytelling
+- Tableau Dashboard Development
+- Interactive Data Visualization
+- Spatial Analytics
 - KPI Reporting
-- Interactive Analytics
+- Business Intelligence
+- Data Storytelling
+- Public Sector Analytics
 
 ---
 
